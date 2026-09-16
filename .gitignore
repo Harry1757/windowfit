@@ -1,0 +1,8 @@
+.DS_Store
+.superpowers/
+*.app/
+*.zip
+*.log
+verification.json
+chrome-verification.json
+build/
