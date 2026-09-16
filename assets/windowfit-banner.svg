@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">WindowFit — Your windows. In place.</title>
+  <desc id="desc">A window arrangement illustration with a large left pane and two smaller right panes.</desc>
+  <rect width="1280" height="460" rx="24" fill="#f5f4f0"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif">
+    <rect x="64" y="56" width="38" height="38" rx="10" fill="#252a31"/>
+    <path d="M74 66h8v18h-8zm11 0h7v8h-7zm0 11h7v7h-7z" fill="#e1e7a6"/>
+    <text x="116" y="83" fill="#252a31" font-size="25" font-weight="650">WindowFit</text>
+    <text x="64" y="191" fill="#252a31" font-size="62" font-weight="700" letter-spacing="-2.5">Your windows.</text>
+    <text x="64" y="262" fill="#252a31" font-size="62" font-weight="700" letter-spacing="-2.5">In place.</text>
+    <text x="67" y="312" fill="#626872" font-size="19">A little order for your Mac.</text>
+    <rect x="64" y="354" width="166" height="40" rx="20" fill="#e5e4de"/>
+    <text x="147" y="380" fill="#444b54" font-size="13" text-anchor="middle" letter-spacing="1.5">NATIVE macOS</text>
+  </g>
+  <g transform="translate(660 77)">
+    <rect width="550" height="308" rx="16" fill="#fff" stroke="#d8d9d4" stroke-width="2"/>
+    <path d="M1 35h548" stroke="#e5e6e0"/>
+    <circle cx="21" cy="18" r="4" fill="#c6c8c1"/><circle cx="35" cy="18" r="4" fill="#c6c8c1"/><circle cx="49" cy="18" r="4" fill="#c6c8c1"/>
+    <rect x="16" y="51" width="253" height="240" rx="8" fill="#e1e7a6"/>
+    <rect x="281" y="51" width="253" height="114" rx="8" fill="#d5d9ef"/>
+    <rect x="281" y="177" width="253" height="114" rx="8" fill="#e9ddd0"/>
+    <g fill="none" stroke="#656c48" stroke-width="2" opacity=".6"><rect x="124" y="157" width="37" height="28" rx="3"/><path d="M143 157v28"/></g>
+    <g fill="none" stroke="#686e8b" stroke-width="2" opacity=".6"><rect x="389" y="94" width="37" height="28" rx="3"/><path d="M408 94v28m0-14h18"/></g>
+    <g fill="none" stroke="#897768" stroke-width="2" opacity=".6"><rect x="389" y="220" width="37" height="28" rx="3"/><path d="M408 220v28m0-14h18"/></g>
+  </g>
+</svg>
