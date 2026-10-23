@@ -35,7 +35,7 @@
 
 ### 1. 빌드하고 실행하기
 
-Xcode 개발 도구가 설치된 맥에서 실행합니다. 비공개 저장소이므로 저장소 접근 권한이 있는 GitHub 계정이 필요합니다.
+Xcode 개발 도구가 설치된 맥에서 실행합니다.
 
 ```sh
 git clone https://github.com/Harry1757/windowfit.git
